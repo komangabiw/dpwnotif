@@ -8,8 +8,8 @@
                     </router-link>
                 </div>
                 <div>
-                    <h1 class="m0">Detail Ntifications</h1>
-                    <p class="mt5 mb20 tc-green">Your user details</p>
+                    <h1 class="m0">Detail Notifications</h1>
+                    <p class="mt5 mb20 tc-green">Your user details berhasil</p>
                 </div>
             </div>
             <hr class="uline-grey">
