@@ -1,6 +1,6 @@
-# web23
+# Final Project Web Design and Programming
 
-> Fullstack Developer Skill Test
+For this project, I have been assigned the task of implementing a notification feature for an e-commerce platform. This feature will eventually be integrated with the features developed by other students, resulting in a fully functional e-commerce system.
 
 ## Build Setup
 
